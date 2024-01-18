@@ -7,4 +7,4 @@ A toy SAT solver implementing the [DPLL algorithm](https://en.wikipedia.org/wiki
 * Try [conflict-driven clause learning](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning) instead of DPLL
 * Multithread it somehow (e.g. handle the two DFS paths in separate threads, up to some pool limit)
 * Genetic algorithm for exploring better-looking parts of the search space
-    * (but how can we avoid local optima?)
+    * (but how can we avoid getting stuck in local optima?)
