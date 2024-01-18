@@ -1,0 +1,8 @@
+c Example 3 from https://cse.buffalo.edu/~erdem/cse331/support/sat-solver/index.html (unsat)
+p cnf 9 6
+1 6 7 8 0
+2 0
+3 5 0
+4 0
+9 0
+-2 -4 0
